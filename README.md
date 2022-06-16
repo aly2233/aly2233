@@ -2,12 +2,13 @@
 
 Hi, I'm Alan Yueh, a New York based software engineer with a passion for building projects and solving complex problems.
 
+
 ## Find out more about me: 
 
 [<img align="left" alt="alan_yueh | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" />][linkedin]
 
 <br>
-<br>
+
 
 ## My tools and languages: 
 
